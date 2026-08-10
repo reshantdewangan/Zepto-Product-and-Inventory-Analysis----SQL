@@ -257,8 +257,6 @@ Zepto Inventory and Pricing Analysis/
 │
 ├── Zepto_SQL_data_analysis.sql        # Root SQL script (Schema DDL, EDA, Cleaning, Queries)
 ├── zepto_v2.csv                       # Root CSV dataset
-├── zepto_v1.xlsx                      # Excel workbook with calculations
-├── promptforreadme.txt                # Prompt instructions file
 └── README.md                          # Main project documentation
 ```
 
