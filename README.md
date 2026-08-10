@@ -320,9 +320,4 @@ Zepto Inventory and Pricing Analysis/
 
 This project demonstrates practical data analyst competencies in **PostgreSQL data cleaning, inventory analysis, and pricing evaluation**. By analyzing 3,731 SKUs from Zepto, I translated raw catalog attributes into actionable insights regarding revenue concentration, high-value stockout risks, and weight-based logistics planning.
 
----
 
-### 👨‍💻 Author & Connect
-- **Author:** Data Analyst Portfolio Project
-- **Database:** PostgreSQL / pgAdmin 4
-- **License:** MIT License
